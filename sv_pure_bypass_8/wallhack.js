@@ -1,6 +1,6 @@
 'use strict';
-const CSGO_EXE_DIR = 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive';
-const VIDEO_FILE = 'C:\\Program Files (x86)\\Steam\\userdata\\885285072\\730\\local\\cfg\\video.txt';
+const CSGO_EXE_DIR = 'D:\\Program Files (x86)\\Steam\\steamapps\\common\\Counter-Strike Global Offensive';
+const VIDEO_FILE = 'D:\\Program Files (x86)\\Steam\\userdata\\885285072\\730\\local\\cfg\\video.txt';
 const NETCON_PORT = 2121;
 
 const PAK_FILES = [
